@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative);
+
+/* Header Styling */
+
+h1, h2 {
+  text-align: center;
+  line-height: 100%;
+  font-family: "Cinzel Decorative", Georgia, serif;
+}
+
+h1 {
+  font-size: 50px;
+};
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.country {
+  height: 400px;
+  width: 800px;
+  border: 1px dashed;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+/* Ukraine */
+
+/* Germany */
+
+/* Lithuania */
+
+/* Yemen */
+
+/* The Gambia */
+
+/* Yemen */
+
+/* The Gambia */
+
+/* Chad */
+
+/* France */
+
+/* Benin */
+
+/* UAE */
+
+/* Denmark */
+
+/* Norway */ 
+
+/* Greece */
+
+
+
+
