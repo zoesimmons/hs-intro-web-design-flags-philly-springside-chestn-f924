@@ -31,8 +31,21 @@ h3 {
 }
 
 /* Ukraine */
+#ukraine div {
+  height: 175px;
+  width: 800px;
+}
+
+#box1 {
+  background-color: blue;
+}
+
+#box2 {
+  background-color: yellow;
+}
 
 /* Germany */
+
 
 /* Lithuania */
 
