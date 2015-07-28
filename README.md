@@ -6,9 +6,13 @@ What makes CSS so powerful is not just it's ability to change the font color and
 
 ## Let's Get Started
 
-+ Step 1: Open this lab in Nitrous
+### Step 1:
 
-+ Step 2: Take a look at `index.html` and `css/style.css`. We've built out Ukraine for you. Let's take a look at the code in `css/style.css`:
+Open this lab in Nitrous
+
+### Step 2: 
+
+Take a look at `index.html` and `css/style.css`. We've built out Ukraine for you. Let's take a look at the code in `css/style.css`:
 
 ```css
 #ukraine div {
@@ -27,6 +31,10 @@ What makes CSS so powerful is not just it's ability to change the font color and
 
 It's important to note the selector `#ukraine div`. This descendant selector is selecting all the divs inside the div with the id `ukraine`. Basically, the two nested divs are stlyed to be 175px tall and 800px wide. From there, we selected each div individually to change the background color. You'll want to mimic this pattern for the rest of the flags.
 
-+ Step 3: Code your solution in both `index.html` and `css/style.css` to create flags from countries around the world!
+### Step 3: 
 
-+ Remember you can preview your work by entering in terminal `python -m SimpleHTTPServer 3000` and then selecting `Preview < Port 3000` at the top of the page
+Code your solution in both `index.html` and `css/style.css` to create flags from countries around the world!
+
+### Step 4:
+
+Remember you can preview your work by entering in terminal `python -m SimpleHTTPServer 3000` and then selecting `Preview < Port 3000` at the top of the page
