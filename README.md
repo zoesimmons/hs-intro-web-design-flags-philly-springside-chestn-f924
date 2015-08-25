@@ -38,3 +38,7 @@ Code your solution in both `index.html` and `css/style.css` to create flags from
 ### Step 4:
 
 Remember you can preview your work by entering in terminal `python -m SimpleHTTPServer 3000` and then selecting `Preview < Port 3000` at the top of the page
+
+### Step 3:
+
+To mark this lab as done (and store your work on GitHub!) in Nitrous, in terminal, enter `learn submit`.
