@@ -48,4 +48,4 @@ If it doesn't seem like your changes are showing up in the browser, check to mak
 ### Step 3:
 
 To mark this lab as done (and store your work on GitHub!) in Nitrous, in terminal, enter `learn submit`.
-<a href='https://learn.co/lessons/hs-intro-web-design-flags' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-flags' title='Flag Maker'>Flag Maker</a> on Learn.co and start learning to code for free.</p>
